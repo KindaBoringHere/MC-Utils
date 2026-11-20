@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ElectronNET.Core" Version="0.6.0" />
+    <PackageReference Include="ElectronNET.Core.AspNet" Version="0.6.0" />
+  </ItemGroup>
+
 </Project>
